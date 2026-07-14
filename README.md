@@ -1,9 +1,6 @@
 # Transformer Neural Network Building Blocks
 
 
-> **Status: learning archive** — educational / trial code.  
-> Related: **[py_pcalg](https://github.com/fooSynaptic/py_pcalg)** · **[deepseek-tech-notes](https://github.com/fooSynaptic/deepseek-tech-notes)**
-
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow 1.12](https://img.shields.io/badge/tensorflow-1.12-orange.svg)](https://www.tensorflow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -261,7 +258,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
----
-
-**<img src=".github/icons/star.svg" width="16" height="16" alt="icon"> If you find this project helpful, please consider giving it a star!**
