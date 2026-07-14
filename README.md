@@ -1,8 +1,8 @@
 # Transformer Neural Network Building Blocks
 
 
-> **Status: learning archive** — educational / trial code, not maintained as a product.  
-> Active tools: **[py_pcalg](https://github.com/fooSynaptic/py_pcalg)** · **[deepseek-tech-notes](https://github.com/fooSynaptic/deepseek-tech-notes)**
+> **Status: learning archive** — educational / trial code.  
+> Related: **[py_pcalg](https://github.com/fooSynaptic/py_pcalg)** · **[deepseek-tech-notes](https://github.com/fooSynaptic/deepseek-tech-notes)**
 
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow 1.12](https://img.shields.io/badge/tensorflow-1.12-orange.svg)](https://www.tensorflow.org/)
